@@ -1,0 +1,12 @@
+.Filter{
+    background-color: aquamarine;
+    padding: 5px;
+    margin: 20px;
+}
+
+input[id=filterNotes]{
+    width: 45vh;
+    height: 5vh;
+    border-radius:30px;
+    padding-left: 20px;
+}
