@@ -1,0 +1,26 @@
+.ColorButtonContainer{
+    display: block;
+    margin: 0.5vh;
+    padding-right: 1vh;
+}
+
+.ColorButtonContainer button{
+    border: none;
+    border-radius: 3vh;
+    height: 3vh;
+    width: 3vh;
+    
+    padding: 2vh;
+}
+
+.Button{
+    background-color: green;
+    text-align: center;
+    color:  rgb(196, 196, 196);;
+    border: none;
+    width: 20vh;
+    height: 5vh;
+    border-radius: 3vh;
+    ;
+}
+

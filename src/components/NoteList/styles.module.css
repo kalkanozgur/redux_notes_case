@@ -1,0 +1,11 @@
+.Container{
+    background-color: darkgray;
+    border-radius: 2vh;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    padding: 2vh;
+    margin-top: 2vh;
+    position: relative;
+    box-sizing: border-box;
+    width: 90%;
+}
